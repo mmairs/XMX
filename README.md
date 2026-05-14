@@ -1,1 +1,3 @@
 # XMX
+All hail Bert and Mark! My only regret is how much $ I've wasted on unecessary hardware modules.
+But I'm prolly not the only user to think patching sucks; here's hoping removing excessive ins and outs from plugins will make it less painful; and that I'm up to the task...
